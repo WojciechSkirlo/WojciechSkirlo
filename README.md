@@ -4,7 +4,7 @@
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=black&color=e9d5ff)
 ![CSS](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=black&color=e9d5ff)
 ![SASS](https://img.shields.io/badge/SASS-informational?style=flat-square&logo=SASS&logoColor=black&color=e9d5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=black&color=e9d5ff)
+![JavaScript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=black&color=e9d5ff)
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=black&color=e9d5ff)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=black&color=e9d5ff)
 ![Vue](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vuedotjs&logoColor=black&color=e9d5ff)
