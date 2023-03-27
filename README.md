@@ -17,7 +17,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=flat-square&logo=gmail&logoColor=black&color=e9d5ff)](mailto:wojciechskiro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=black&color=e9d5ff)](https://www.linkedin.com/in/wojciech-skir%C5%82o-54861b213/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechSkirlo&layout=compact)](https://github.com/WojciechSkirlo/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/WojciechSkirlo)
 
