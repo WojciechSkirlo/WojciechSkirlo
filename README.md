@@ -19,5 +19,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=black&color=e9d5ff)](https://www.linkedin.com/in/wojciech-skir%C5%82o-54861b213/)
 
 
-![Profile views](https://gpvc.arturio.dev/WojciechSkirlo)
+![](https://komarev.com/ghpvc/?username=WojciechSkirlo&color=grey&style=flat-square)
 
