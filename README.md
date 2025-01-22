@@ -1,4 +1,4 @@
-#### Hi there 👋 I’m @WojciechSkirlo Frontend Developer in Ideo
+#### Hi there 👋 I’m @WojciechSkirlo Frontend Developer
 ##### Technologies I worked or work with 🧑‍💻
 
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=black&color=e9d5ff)
